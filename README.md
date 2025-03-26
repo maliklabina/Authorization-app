@@ -69,3 +69,9 @@ authorization-app/
 - Deploy using **Render**, **Heroku**, or **Vercel**.
 - Make sure to set the correct **MongoDB Atlas URI** and **JWT Secret** in your hosting environment
 
+## Contribution
+You can contribute by improving the backend or **creating a frontend UI** to interact with the API. Feel free to open a pull request with your changes.
+
+## License
+MIT License
+
