@@ -67,5 +67,5 @@ authorization-app/
 
 ## 🛠️ Deployment
 - Deploy using **Render**, **Heroku**, or **Vercel**.
-- Make sure to set the correct **MongoDB Atlas URI** and **JWT Secret** in your hosting environment.
+- Make sure to set the correct **MongoDB Atlas URI** and **JWT Secret** in your hosting environment
 
